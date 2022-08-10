@@ -4,9 +4,9 @@ description: This dataset is a monthly-updated list of all services, route optim
 publisher_text: Last Mile Team
 publisher_url: https://www.lastmile.team
 
-license_text: UK Open Government Licence (OGL)
-license_url: http://reference.data.gov.uk/id/open-government-licence
+license_text: Attribution 4.0 International (CC BY 4.0)
+license_url: https://creativecommons.org/licenses/by/4.0/
 
 frequency: Monthly
 
-certificate_embed: <script src='https://certificates.theodi.org/datasets/2502/certificates/14842/badge.js'></script>
+## certificate_embed: <script src='https://certificates.theodi.org/datasets/2502/certificates/14842/badge.js'></script>
