@@ -4,7 +4,7 @@ body {
 	margin: 0;
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	line-height: 20px;
-	color: #336699;
+	color: #333333;
 }
 
 .container {
@@ -41,7 +41,7 @@ header {
 	-webkit-font-smoothing: antialiased;
 	font-smoothing: antialiased;
 	color: #fff;
-	background-color: #1b1b1b;
+	background-color: #00b7ff;
 	display: block;
 }
 
@@ -57,7 +57,7 @@ header {
 
 .download-block {
 	width: 120px;
-	background-color: #1b1b1b;
+	background-color: #00b7ff;
 	height: 100%;
 	text-align: center;
 	display: inline-block;
@@ -87,7 +87,7 @@ header {
 }
 .objectHistory a {
 	text-decoration: none;
-	color: #669933;
+	color: #00b7ff;
 }
 
 .lastUpdate {
