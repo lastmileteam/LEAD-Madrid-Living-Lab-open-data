@@ -9,4 +9,4 @@ license_url: https://creativecommons.org/licenses/by/4.0/
 
 frequency: Monthly
 
-## certificate_embed: <script src='https://certificates.theodi.org/datasets/2502/certificates/14842/badge.js'></script>
+#certificate_embed: <script src='https://certificates.theodi.org/datasets/2502/certificates/14842/badge.js'></script>
