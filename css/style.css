@@ -41,7 +41,7 @@ header {
 	-webkit-font-smoothing: antialiased;
 	font-smoothing: antialiased;
 	color: #fff;
-	background-color: #336699;
+	background-color: #1b1b1b;
 	display: block;
 }
 
@@ -57,7 +57,7 @@ header {
 
 .download-block {
 	width: 120px;
-	background-color: #336699;
+	background-color: #1b1b1b;
 	height: 100%;
 	text-align: center;
 	display: inline-block;
