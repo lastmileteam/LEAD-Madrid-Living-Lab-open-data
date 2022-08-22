@@ -1,8 +1,8 @@
 ---
 category: data
-filename: 202112_svcs.csv
-weight: 39
-title: December 2021
+filename: 202207_svcs.csv
+weight: 25
+title: July 2022
 description: Services in the month
 type: text/csv
 ---
